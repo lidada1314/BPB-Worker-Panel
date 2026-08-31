@@ -14,3 +14,7 @@
 !NAT64Prefixes.md
 !docs
 !docs/**
+!dinner-picker/
+!dinner-picker/**
+dinner-picker/node_modules/
+dinner-picker/dist/
